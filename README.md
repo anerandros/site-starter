@@ -1,2 +1,2 @@
-# site-starter
-WebApp loader and preloader in typescript
+# WebApp-starter
+WebApp loader and preloader in Typescript
