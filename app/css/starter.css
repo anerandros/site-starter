@@ -1,0 +1,23 @@
+body {
+  background-color: #001623;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+section#appLoader {
+  background-image: radial-gradient(circle at 50% 30, #002152, #001623) !important;
+  opacity: 1;
+  -webkit-transition: opacity 1000ms linear;
+  transition: opacity 1000ms linear;
+  z-index: 100;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.appLoaderGrid {
+  height: 100%;
+}
